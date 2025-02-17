@@ -1,4 +1,8 @@
 this is first line
 this is second line
 this is third line
+<<<<<<< HEAD
 this if fifth line
+=======
+this is fourth line
+>>>>>>> aceb660878948e730afeeba276fca14202493b6a
