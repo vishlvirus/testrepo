@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 1 line
+=======
+this is one line
+this is 2 line
+>>>>>>> f22c419292233e1d3808126e5221e09e597629d0
